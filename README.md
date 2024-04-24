@@ -39,7 +39,7 @@ The project consists of the following components:
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Eddy-Emmanuel/Loan-Default-Classification.git
     ```
 
 2. Install the required dependencies:
