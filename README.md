@@ -60,6 +60,16 @@ The project consists of the following components:
 
 4. Once the server is running, you can access the API documentation and test the endpoints by visiting [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) in your browser.
 
+## Output
+
+Here are some output images generated during the project:
+
+![Output 1](output_1.png)
+![Output 2](output_2.png)
+![Output 3](output_3.png)
+![Output 4](output_4.png)
+
+
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
